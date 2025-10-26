@@ -57,7 +57,6 @@
   <meta property="og:title" content="CSS3 - 20 Tips" />
   <meta property="og:description" content="20 tips used by CSS3." />
   <meta property="og:image" content="http://images/myicon-template.jpg" />
-  <title>CSS3-20 Tips</title>
   <link rel="icon" type="image/x-icon" href="/images/favicon.ico" />
   <link rel="canonical" href="https://css3-20tips.bauska.org" />
   <link rel="shortcut icon" type="image/jpg" href="/images/favicon.ico"/>
@@ -93,8 +92,8 @@
 </head>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <body>
-
-<h1 id="#css-tips">CSS-Tips</h1>
+  <title>CSS3-20 Tips</title>
+  <h1 id="#css-tips">CSS-Tips</h1>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
 <h2>20+ CSS TIPS Every Web Dеѕignеr Shоuld Know</h2>
 <!--~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~-->
